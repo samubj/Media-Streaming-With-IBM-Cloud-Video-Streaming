@@ -14,9 +14,10 @@ If you don't have the above dependencies, please follow below commands to instal
 
 1.Flask
 Install flask by running this command in your terminal.
-        pip install flask
+        ```bash pip install flask```
 OR
-        npm install flask
+        ```bash npm install flask```
+
 2.SQLite
 Install SQLite by running this command in your terminal.
         pip install sqlite
