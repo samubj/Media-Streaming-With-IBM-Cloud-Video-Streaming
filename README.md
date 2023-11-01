@@ -5,9 +5,13 @@ Download or clone the ``CineVision`` folder from this repository.
 
 # Step 2:
 Install the following dependencies:
+
 list of our dependencies:
+
     ``Flask``
+    
     ``sqlite``
+    
     ``sqlite3``
 
 If you don't have the above dependencies, please follow below commands to install it.
