@@ -18,21 +18,24 @@ If you don't have the above dependencies, please follow below commands to instal
 
 1.Flask
 Install flask by running this command in your terminal.
-        ```bash pip install flask```
+
+    pip install flask
+    
 OR
-        ```bash npm install flask```
+
+    npm install flask
 
 2.SQLite
 Install SQLite by running this command in your terminal.
-        pip install sqlite
+    pip install sqlite
 OR
-        npm install sqlite
+    npm install sqlite
 
 3.SQLite3
 Install SQLite3 by running this command in your terminal.
-        pip install sqlite3
+        ```pip install sqlite3```
 OR
-        npm install sqlite3
+        ```npm install sqlite3```
 
 # Step 3:
 Open the ``CineVision`` folder in the VS Code Editor or your favourite Code Editor.
@@ -48,4 +51,4 @@ Then you will be landed into the Login Page of our CineVision Platform. Then cli
 
 After Logging in successfully, CineVision Platform Home Page will be displayed. And explore our platform features..
 
-        ``Thank You. Have A Good Day``
+``Thank You. Have A Good Day``
