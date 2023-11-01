@@ -1,7 +1,8 @@
 # Media-Streaming-With-IBM-Cloud-Video-Streaming
 
 # Step 1:
-Download or clone the ``CineVision`` folder from this repository.
+Download or clone the Repository folder using below Command.
+    git clone Repo_Link
 
 # Step 2:
 Install the following dependencies:
