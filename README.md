@@ -38,7 +38,9 @@ OR
 Install SQLite3 by running this command in your terminal.
 
         pip install sqlite3
+        
 OR
+
         npm install sqlite3
 
 # Step 3:
