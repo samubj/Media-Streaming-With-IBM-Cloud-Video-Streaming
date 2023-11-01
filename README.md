@@ -8,11 +8,11 @@ Install the following dependencies:
 
 list of our dependencies:
 
-    ``Flask``
+``Flask``
     
-    ``sqlite``
+``sqlite``
     
-    ``sqlite3``
+``sqlite3``
 
 If you don't have the above dependencies, please follow below commands to install it.
 
