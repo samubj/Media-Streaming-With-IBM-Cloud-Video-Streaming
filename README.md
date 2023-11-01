@@ -44,7 +44,7 @@ OR
         npm install sqlite3
 
 # Step 3:
-Open the ``CineVision`` folder in the VS Code Editor or your favourite Code Editor.
+Open the ``CineVision`` folder in the VS Code Editor or your favourite Code Editor.Change the path to Cine Vision Folder Using Terminal (cd path)
 
 # Step 4:
 Run the below command to run our ``CineVision`` application.
